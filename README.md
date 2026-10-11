@@ -17,6 +17,9 @@
 1. [Ohom (অহম) (2003)](#1-ohom-2003)
 2. [The Third Album (Live & Demos)](#2-the-third-album-live--demos)
 
+### 💿 Mixed Albums
+3. [Live Now (লাইভ নাউ) (2007)](#3-live-now-2007)
+
 ---
 
 <a id="1-ohom-2003"></a>
@@ -36,16 +39,17 @@ Released in September 2003 under the label G-Series, *Ohom* ("Ego") is the criti
 
 ### 🎵 Tracklist (One-Tap Download)
 
-- [**01. Akash**](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/01.%20Akash.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/01.%20Akash.flac?download=true)
-- [**02. Chaya**](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/02.%20Chaya.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/02.%20Chaya.flac?download=true)
-- [**03. Rong**](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/03.%20Rong.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/03.%20Rong.flac?download=true)
-- [**04. Amar Notun Ami**](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/04.%20Amar%20Notun%20Ami.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/04.%20Amar%20Notun%20Ami.flac?download=true)
-- [**05. Ohom**](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/05.%20Ohom.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/05.%20Ohom.flac?download=true)
-- [**06. Shongket**](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/06.%20Shongket.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/06.%20Shongket.flac?download=true)
-- [**07. Jhor**](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/07.%20Jhor.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/07.%20Jhor.flac?download=true)
-- [**08. Prachir**](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/08.%20Prachir.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/08.%20Prachir.flac?download=true)
-- [**09. Shanti**](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/09.%20Shanti.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/09.%20Shanti.flac?download=true)
-- [**10. ...Shore Daray, Shesh Barer Moto**](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/10.%20...Shore%20Daray%2C%20Shesh%20Barer%20Moto.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/10.%20...Shore%20Daray%2C%20Shesh%20Barer%20Moto.flac?download=true)
+
+- [**01. Akash**](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/01%20Akash.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/01%20Akash.flac?download=true)
+- [**02. Chaya**](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/02%20Chaya.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/02%20Chaya.flac?download=true)
+- [**03. Rong**](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/03%20Rong.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/03%20Rong.flac?download=true)
+- [**04. Amar Notun Ami**](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/04%20Amar%20Notun%20Ami.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/04%20Amar%20Notun%20Ami.flac?download=true)
+- [**05. Ohom**](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/05%20Ohom.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/05%20Ohom.flac?download=true)
+- [**06. (Oshanti- 1) Shonket**](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/06%20%28Oshanti-%201%29%20Shonket.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/06%20%28Oshanti-%201%29%20Shonket.flac?download=true)
+- [**07. (Oshanti- 2) Jhor**](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/07%20%28Oshanti-%202%29%20Jhor.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/07%20%28Oshanti-%202%29%20Jhor.flac?download=true)
+- [**08. (Oshanti- 3) Prachir**](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/08%20%28Oshanti-%203%29%20Prachir.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/08%20%28Oshanti-%203%29%20Prachir.flac?download=true)
+- [**09. Shanti**](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/09%20Shanti.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/09%20Shanti.flac?download=true)
+- [**10. Shore Daray, Shesh Barer Moto**](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/10%20Shore%20Daray%2C%20Shesh%20Barer%20Moto.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/Ohom/10%20Shore%20Daray%2C%20Shesh%20Barer%20Moto.flac?download=true)
 
 ### 🖼️ Album Artwork
 
@@ -83,6 +87,14 @@ Released in September 2003 under the label G-Series, *Ohom* ("Ego") is the criti
 - [**Spiral Self - original 2000 demo**](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/The%20Third%20Album/The%20Watson%20Brothers%20-%20Spiral%20Self%20-%20original%202000%20demo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/The%20Third%20Album/The%20Watson%20Brothers%20-%20Spiral%20Self%20-%20original%202000%20demo.flac?download=true)
 - [**The Horizontal Neck - original 2000 demo**](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/The%20Third%20Album/The%20Watson%20Brothers%20-%20The%20Horizontal%20Neck%20-%20original%202000%20demo.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/The-Watson-Brothers/master/The%20Third%20Album/The%20Watson%20Brothers%20-%20The%20Horizontal%20Neck%20-%20original%202000%20demo.flac?download=true)
 
+---
+
+<a id="3-live-now-2007"></a>
+## 3. [Live Now (লাইভ নাউ) (2007)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Live%20Now%20%282007%29)
+
+### 🎵 Tracklist (One-Tap Download)
+
+- [**The Watson Brothers - Shukhi**](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Live%20Now%20%282007%29/08%20Shukhi.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Mixed-Albums/master/Live%20Now%20%282007%29/08%20Shukhi.flac?download=true)
 ---
 
 ### 💾 Git LFS & Downloading Audio
