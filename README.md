@@ -90,7 +90,7 @@ Released in September 2003 under the label G-Series, *Ohom* ("Ego") is the criti
 ---
 
 <a id="3-live-now-2007"></a>
-## 3. [Live Now (লাইভ নাও) (2007)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Live%20Now%20%282007%29)
+## 3. [Live Now (লাইভ নাও) (2007)](https://github.com/GhostDog45/Mixed-Albums#11-live-now-2007)
 
 ### 🎵 Tracklist (One-Tap Download)
 
