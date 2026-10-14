@@ -70,6 +70,11 @@ Released in September 2003 under the label G-Series, *Ohom* ("Ego") is the criti
 - **Band:** The Watson Brothers
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
+<p align="center">
+  <img src="The%20Third%20Album/Album%20Cover/folder.jpg" width="300" alt="The Third Album Cover" />
+</p>
+- **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
+
 ### 📖 About the Album
 *The Third Album* represents a treasured archival collection of unreleased studio demos from 2000 alongside raw, electrifying live concert performances recorded at the All Community Club (June 29, 2005) and historic rehearsal sessions. This compilation preserves the band's earliest grunge prototypes like *"Spiral Self"*, *"The Horizontal Neck"*, and *"Fears Realized"*, as well as energetic live renditions of classics like *"Akash"*, *"Amar Notun Ami"*, and *"Ohom"*.
 
