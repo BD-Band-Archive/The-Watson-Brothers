@@ -97,7 +97,7 @@ Released in September 2003 under the label G-Series, *Ohom* ("Ego") is the criti
 
 | | |
 | :---: | :---: |
-| <img src="The%20Third%20Album/Album%20Cover/The%20Third%20Album%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="The%20Third%20Album/Album%20Cover/folder.jpg" width="300" alt="2. folder" /><br><sub><b>2. folder</b></sub> |
+| <img src="The%20Third%20Album/Album%20Cover/The%20Third%20Album%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
 
 ---
 
