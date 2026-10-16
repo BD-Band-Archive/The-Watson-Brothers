@@ -60,6 +60,12 @@ Released in September 2003 under the label G-Series, *Ohom* ("Ego") is the criti
 | <img src="Ohom/Album%20Covers/Ohom%20%5BCD%5D.jpg" width="300" alt="5. Compact Disc (CD)" /><br><sub><b>5. Compact Disc (CD)</b></sub> | <img src="Ohom/Album%20Covers/Ohom%20%5BInset-Back%5D.jpg" width="300" alt="6. Back Inset" /><br><sub><b>6. Back Inset</b></sub> |
 | <img src="Ohom/Album%20Covers/Ohom%20%5BBack%5D.jpg" width="300" alt="7. Back Cover" /><br><sub><b>7. Back Cover</b></sub> |  |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Khudadad Towhid
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 ---
@@ -98,6 +104,12 @@ Released in September 2003 under the label G-Series, *Ohom* ("Ego") is the criti
 | | |
 | :---: | :---: |
 | <img src="The%20Third%20Album/Album%20Cover/The%20Third%20Album%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |  |
+
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** Bangla Flac Preservation Community
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
 
 ---
 
