@@ -1,0 +1,29 @@
+Album Name: The Third Album
+Album Type: Band
+Release Year: 2023
+Genre: Rock
+Total Songs: 11
+Track List:
+01. Akash - live at All Community Club, 29 June 2005
+02. Amar Notun Ami - live at All Community Club, 29 June 2005
+03. Cchaya - live at All Community Club, 29 June 2005
+04. Fears Realized - original 2000 demo
+05. My Dreams Kiss - original 2000 demo
+06. Ohom - live at All Community Club, 29 June 2005
+07. Playing with Myself--Theodore Witherspoon's Moment of Glory - original 2000 demo
+08. Rong - live at All Community Club, 29 June 2005
+09. Rong - rehearsal at Sarfaraz Bhai's, 24 June 2005
+10. Spiral Self - original 2000 demo
+11. The Horizontal Neck - original 2000 demo
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 870 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
