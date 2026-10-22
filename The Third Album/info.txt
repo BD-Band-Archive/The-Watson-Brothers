@@ -1,6 +1,6 @@
 Album Name: The Third Album
 Album Type: Band
-Release Year: 2023
+Release Year: 2003
 Genre: Rock
 Total Songs: 11
 Track List:
